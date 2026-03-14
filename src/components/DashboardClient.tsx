@@ -90,7 +90,7 @@ function DashboardClient({ ownerId }: { ownerId: string }) {
               initial={{ opacity: 0, y: 6 }}
               animate={{ opacity: 1, y: 0 }}
               className='text-sm font-medium text-emerald-600'>
-              ✓ Settind Saved
+              ✓ Setting Saved
             </motion.span>}
           </div>
         </motion.div>
